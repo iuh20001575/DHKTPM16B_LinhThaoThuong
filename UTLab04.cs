@@ -16,7 +16,7 @@ namespace TestBlack_box
                 DataAccessMethod.Sequential),
                 DeploymentItem("UTLab04.csv")
 
-            ]
+        ]
         public void TestMethod1()
         {
             MethodLibrary.MethodLibrary methodLibrary = new MethodLibrary.MethodLibrary();
