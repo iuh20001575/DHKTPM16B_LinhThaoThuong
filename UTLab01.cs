@@ -1,8 +1,8 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using System.Runtime;
 
-namespace TestBlack_box
+namespace Project
 {
     [TestClass]
     public class UTLab01
